@@ -5,7 +5,7 @@ const options = {
   definition: {
     openapi: '3.0.0',
     info: {
-      title: 'FarmaPlus Sync API',
+      title: 'Nova Salud Sync API',
       version: '1.0.0',
       description: 'Documentación de la API para el sistema de inventario de boticas',
     },
